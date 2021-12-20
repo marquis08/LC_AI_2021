@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "DShomin",
+      "name": "DShomin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33175883?v=4",
+      "profile": "https://www.kaggle.com/hominlee",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "LC_AI_2021",
+  "projectOwner": "marquis08",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
