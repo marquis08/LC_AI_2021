@@ -1,6 +1,6 @@
 # Competition Info
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 https://github.com/DatathonInfo/L.C.A.I.2021
 
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.kaggle.com/hominlee"><img src="https://avatars.githubusercontent.com/u/33175883?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DShomin</b></sub></a><br /><a href="https://github.com/marquis08/LC_AI_2021/commits?author=DShomin" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/hyeonho1028"><img src="https://avatars.githubusercontent.com/u/40379485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hyeonho lee</b></sub></a><br /><a href="https://github.com/marquis08/LC_AI_2021/commits?author=hyeonho1028" title="Code">💻</a></td>
   </tr>
 </table>
 
